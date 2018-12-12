@@ -5,4 +5,4 @@
 
 ![iOS音频框架](https://github.com/scyios/MSRecordManager/blob/master/img/image1.png)
 
-详细说明在请参照[这里](https://objccn.io/issue-24-4/)或[官方文档](https://link.jianshu.com/?t=https://developer.apple.com/library/ios/documentation/AudioVideo/Conceptual/MultimediaPG/UsingAudio/UsingAudio.html#//apple_ref/doc/uid/TP40009767-CH2-SW6);
+每个类的详细说明在请参照[这里](https://objccn.io/issue-24-4/)或[官方文档](https://link.jianshu.com/?t=https://developer.apple.com/library/ios/documentation/AudioVideo/Conceptual/MultimediaPG/UsingAudio/UsingAudio.html#//apple_ref/doc/uid/TP40009767-CH2-SW6);我不多做赘述, 下面开始进入正题。
