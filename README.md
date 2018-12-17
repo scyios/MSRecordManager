@@ -9,3 +9,7 @@
 
 1) iOS中所有的音频技术都构建在 Audio Unit 这个框架之上
 2) TAAE 主要是封装了Audio Unit、AudioToolBox、AVFoundation
+
+## 工作流程
+由于我的项目录音模块没有涉及到音效混合,所以业务逻辑还算是比较简单,还是用一张图来描述
+![iOS音频业务逻辑](https://github.com/scyios/MSRecordManager/blob/master/img/image2.png)
