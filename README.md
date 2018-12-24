@@ -1,8 +1,8 @@
 # MSRecordManager
 基于TAAE([The Amazing Audio Engine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine))框架封装的录音工具类 可以直接添加到项目中使用
-工具类用使用单例封装,代码比较简单,写这个东西的原因主要有两点
-1:总结记录自己项目中所用的东西
-2:方便有录音相关需求的小伙伴江湖救急,少走弯路
+工具类用使用单例封装,代码比较简单,写这个东西的原因主要有两点\
+1:总结记录自己项目中所用的东西\
+2:方便有录音相关需求的小伙伴江湖救急,少走弯路\
 在开始之前,先通过一张图简单的总结一下 iOS当中常用的音频框架
 
 ![iOS音频框架](https://github.com/scyios/MSRecordManager/blob/master/img/image1.png)
